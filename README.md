@@ -8,3 +8,9 @@ This includes data science concepts and study resources .
 
 #####  How Feature importance is gets calculated in Tree algorithms?
 1. [Feature Importance in Trees](https://towardsdatascience.com/the-mathematics-of-decision-trees-random-forest-and-feature-importance-in-scikit-learn-and-spark-f2861df67e3)
+
+##### Programmers Guide To data mining:
+[Data Mining Intutive learning book](http://guidetodatamining.com)
+
+##### Machine Learning For Humans:
+[Machine Learning For Humans](http://guidetodatamining.com)
