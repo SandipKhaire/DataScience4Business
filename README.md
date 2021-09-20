@@ -18,3 +18,6 @@ This includes data science concepts and study resources .
 #### Live Survey Helper Website:
 [Live Survey](https://presenter.ahaslides.com/apps/presentations)
 
+#### How to avoid machine learning Pitfalls:
+[Link](https://arxiv.org/pdf/2108.02497.pdf)
+
