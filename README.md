@@ -21,3 +21,4 @@ This includes data science concepts and study resources .
 #### How to avoid machine learning Pitfalls:
 [Link](https://arxiv.org/pdf/2108.02497.pdf)
 
+### [One Hot Code Droping](https://inmachineswetrust.com/posts/drop-first-columns/)
