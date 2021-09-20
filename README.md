@@ -14,3 +14,7 @@ This includes data science concepts and study resources .
 
 ##### Machine Learning For Humans:
 [Machine Learning For Humans](http://guidetodatamining.com)
+
+#### Live Survey Helper Website:
+[Live Survey](https://presenter.ahaslides.com/apps/presentations)
+
